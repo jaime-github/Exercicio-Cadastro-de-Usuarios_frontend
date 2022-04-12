@@ -1,5 +1,5 @@
 <h1 align="center">
-    📲 📴 <a href="#" alt="site do projeto" target="_blank"> Exercicio-Cadastro-de-Usuarios </a> 📲 📴
+    📲👨‍👩‍👦‍👦📴 <a href="#" alt="site do projeto" target="_blank"> Exercicio-Cadastro-de-Usuarios </a> 📲👨‍👩‍👦‍👦📴
 </h1>
 
 ## 💻 Sobre a atividade
